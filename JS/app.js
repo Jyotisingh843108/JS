@@ -19,17 +19,17 @@
 //     console.log("go. light color is green")
 // }
 
-let size = "xl"
+// let size = "xl"
 
-if (size=="xl") {
-    console.log("price is Rs.250")
-}
-else if (size=="l") {
-    console.log("price is Rs 200")
-}
+// if (size=="xl") {
+//     console.log("price is Rs.250")
+// }
+// else if (size=="l") {
+//     console.log("price is Rs 200")
+// }
 
-else if (size=="m") {
-    console.log("price is ERs.100")
+// else if (size=="m") {
+//     console.log("price is ERs.100")
 
 
 
