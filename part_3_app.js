@@ -54,3 +54,4 @@ if(array.indexOf(n) !==-1)
 else{
     console.log("not found")
 }
+
